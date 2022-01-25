@@ -1,3 +1,7 @@
+# Install prerequire lib
+gcc-multilib
+sudo apt-get --reinstall install libc6 libc6-dev gcc-multilib
+
 # D-Modem
 Connect to dialup modems over VoIP using SIP, no modem hardware required.
 
